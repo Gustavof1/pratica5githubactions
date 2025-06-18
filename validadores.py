@@ -1,5 +1,3 @@
-# validadores.py
-
 import re
 
 def email_valido(email: str) -> bool:

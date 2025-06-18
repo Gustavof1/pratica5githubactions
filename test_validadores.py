@@ -1,5 +1,3 @@
-# test_validadores.py
-
 from validadores import email_valido, cpf_valido, telefone_valido
 
 def test_email_valido():
